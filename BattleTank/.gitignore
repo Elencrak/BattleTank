@@ -1,0 +1,29 @@
+#####################
+# Unreal Generated files #
+#####################
+/Binaries/
+/Build/
+/Intermediate/
+/Saved/
+/DerivedDataCache/
+
+############
+# Assets files #
+############
+Content/StarterContent/*
+
+#########################
+# Visual Studio generated file #
+#########################
+*.db
+.vs/
+*.sln
+*.suo
+*.sdf
+*.VC.opendb
+*.opensdf
+
+#############
+# Executables #
+#############
+*.exe
