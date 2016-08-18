@@ -17,5 +17,8 @@ Elencrak
 | 100           | Yes		        |		no		|
 | 101           | Yes		        |		no		|
 | 102           | Yes		        |		no		|
-| 103           | No 		        |		no		|
-| 104           | No		        |		no		|
+| 103           | Yes 		        |		no		|
+| 104           | Yes		        |		no		|
+| 105           | Yes		        |		no		|
+| 106           | yes		        |		no		|
+| 107           | Yes		        |		no		|
