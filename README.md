@@ -28,3 +28,5 @@ Elencrak
 | 111           | Yes		        |Not needed		|
 | 112           | Yes		        |Not needed		| -> tips how to add input mode
 | 113           | Yes		        |Not needed		|
+| 114           | Yes		        |Not needed		| -> Private and public folder in cpp folder, Reparenting a class
+| 115           | Yes		        |		no		| -> Princip d'héritage dans UE4
