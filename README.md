@@ -11,14 +11,20 @@ Elencrak
 | 94            | Yes               |Not needed   	|
 | 95            | Yes               |Not needed  	|
 | 96            | Yes		        |Not needed		|
-| 97            | Yes		        |		no		|
-| 98            | Yes		        |		no		|
-| 99            | Yes		        |		no		|
-| 100           | Yes		        |		no		|
-| 101           | Yes		        |		no		|
-| 102           | Yes		        |		no		|
-| 103           | Yes 		        |		no		|
+| 97            | Yes		        |Not needed		|
+| 98            | Yes		        |Not needed		|
+| 99            | Yes		        |Not needed		|
+| 100           | Yes		        |Not needed		|
+| 101           | Yes		        |Not needed		|
+| 102           | Yes		        |Not needed		|
+| 103           | Yes 		        |Not needed		|
 | 104           | Yes		        |		no		|
 | 105           | Yes		        |		no		|
 | 106           | yes		        |		no		|
 | 107           | Yes		        |		no		|
+| 108           | Yes		        |		no		|
+| 109           | Yes		        |Not needed		|
+| 110           | Yes		        |Not needed		|
+| 111           | Yes		        |Not needed		|
+| 112           | Yes		        |Not needed		| -> tips how to add input mode
+| 113           | Yes		        |Not needed		|
