@@ -31,4 +31,4 @@ Elencrak
 | 114           | Yes		        |Not needed		| -> Private and public folder in cpp folder, Reparenting a class
 | 115           | Yes		        |		no		| -> Princip d'héritage dans UE4
 | 116           | Yes		        |		no		| 
-| 117           | No		        |Not needed		| 
+| 117           | Yes		        |Not needed		| 
