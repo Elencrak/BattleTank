@@ -10,15 +10,6 @@ void ABattleTankAIController::BeginPlay()
 	ATank* tempTank = GetControlledTank();
 	ATank* playerTankPawn = GetPlayerTank();
 
-	if (tempTank)
-	{
-		UE_LOG(LogTemp, Warning, TEXT("I'm %s"), *tempTank->GetName());
-	}
-	else
-	{
-		UE_LOG(LogTemp, Warning, TEXT("Error"));
-	}
-
 	if (playerTankPawn)
 	{
 		UE_LOG(LogTemp, Warning, TEXT("%s"), *playerTankPawn->GetName());
