@@ -32,3 +32,9 @@ Elencrak
 | 115           | Yes		        |		no		| -> Princip d'héritage dans UE4
 | 116           | Yes		        |		no		| 
 | 117           | Yes		        |Not needed		| 
+| 118           | Yes		        |Not needed		| -> Add tick behaviour to player controller
+| 119           | Yes		        |		no		| -> Must write doc for const declaration and out parameter cf: ressources1
+
+ressources 1:
+https://openclassrooms.com/forum/sujet/const-fonction-const-45230
+http://stackoverflow.com/questions/751681/meaning-of-const-last-in-a-c-method-declaration
